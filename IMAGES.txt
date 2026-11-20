@@ -1,0 +1,15 @@
+INVENTORYPRO CASE STUDY - IMAGES LIST
+=====================================
+All images are inside the "images" folder next to index.html (your screenshots, demo data only).
+To replace an image keep the same file name. Best: 1600px wide JPG/WebP under 300 KB.
+
+ FILE NAME           WHERE IT APPEARS
+ inv-overview.jpg    Hero (business overview)
+ inv-products.jpg    "A catalog that stays in order"
+ inv-invoice.jpg     "A printable invoice in one click"
+ inv-reports.jpg     "Know how the business is performing"
+ inv-cover.jpg       Portfolio card (1600x900)
+ inv-cover-800.jpg   Small portfolio cards (800x450)
+
+Screens worth adding: Sales (create invoice), Purchases, People (customers/suppliers), Audit Log, Users. The demo passwords from the README are NOT on the page.
+Zenvora logo: embedded in index.html.
